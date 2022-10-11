@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T11:46:12.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" etag="W204Zhkaint2PWoH5P5P" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-11T11:52:12.052Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" etag="5-c3M2mu8B4hErNn5Y-z" version="20.4.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="781" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -11,10 +11,31 @@
           <mxGeometry y="30" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="2QhmVDywUpOf3MOXLTXB-1" value="Artikel_Monitor" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="540" y="90" width="220" height="100" as="geometry" />
+          <mxGeometry x="540" y="90" width="220" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="2QhmVDywUpOf3MOXLTXB-2" value="+ Artikelnummer = M2358&#xa;+ Bezeichnung = Monitor&#xa;+ Einzelpreis = 499,00€&#xa;+ Gesamtpreis = 998,00€" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="2QhmVDywUpOf3MOXLTXB-1">
-          <mxGeometry y="30" width="220" height="70" as="geometry" />
+        <mxCell id="2QhmVDywUpOf3MOXLTXB-2" value="+ Artikelnummer = M2358&#xa;+ Bezeichnung = Monitor&#xa;+ Menge = 2&#xa;+ Einzelpreis = 499,00€&#xa;+ Gesamtpreis = 998,00€" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="2QhmVDywUpOf3MOXLTXB-1">
+          <mxGeometry y="30" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2QhmVDywUpOf3MOXLTXB-3" value="Artikel_Drucker" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="540" y="250" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2QhmVDywUpOf3MOXLTXB-4" value="+ Artikelnummer = D0632&#xa;+ Bezeichnung = Laserdrucker&#xa;+ Menge = 1&#xa;+ Einzelpreis = 399,00€&#xa;+ Gesamtpreis = 399,00€ " style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="2QhmVDywUpOf3MOXLTXB-3">
+          <mxGeometry y="30" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2QhmVDywUpOf3MOXLTXB-5" value="Rechnung" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="250" y="30" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2QhmVDywUpOf3MOXLTXB-6" value="+ Rechnungsnummer = R234&#xa;+ Rechnungsdatum = 23.01.2020&#xa;+ Rechnungsbetrag = 1397,00€&#xa;+ Kundennummer = B035&#xa;+ Artikelnr.1 = M2358&#xa;+ Artikelnr.2 = D0632" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="2QhmVDywUpOf3MOXLTXB-5">
+          <mxGeometry y="30" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2QhmVDywUpOf3MOXLTXB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2QhmVDywUpOf3MOXLTXB-6" target="2QhmVDywUpOf3MOXLTXB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2QhmVDywUpOf3MOXLTXB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2QhmVDywUpOf3MOXLTXB-6" target="2QhmVDywUpOf3MOXLTXB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2QhmVDywUpOf3MOXLTXB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2QhmVDywUpOf3MOXLTXB-6" target="WEr4UYX_Vg0DH8XuiFZU-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
