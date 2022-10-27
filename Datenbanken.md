@@ -15,7 +15,7 @@ Redundanz:
 	- Das Vorhandensein von eigentlich überflüssigen, für die Informationen nicht notwendigen Elementen; Überladung mit Merkmalen
 	- Sollte in Datenbanken vermieden werden -> redundanzfreie Datensicherung
 	
-Konsistenz (auch Integrität von Daten)
+Konsistenz (auch Integrität von Daten):
 
 	- Die Korrektheit der in Datenbanken gespeicherten Daten
 		○ 2 Perspektiven:
