@@ -1,26 +1,32 @@
 Was wird auf dem Organigramm dargestellt?
 
-	- Organisationschart, das Abteilungen abbildet, welche Produkte anbieten
-	- Zuständigkeiten der Abteilungen/Unternehmensbereiche werden benannt
-		○ Ansprechpartner
-	- Aufbau vom "Großem zum Kleinen" -> immer detailliertere Untergliederung
-	- Aufgaben der Unternehmensbereiche werden ersichtlich
-	- Verantwortlichkeiten sind aufgeteilt
-	- Hierarchie: Überordnung und Unterordnung wird erkennbar
+- Organisationschart, das Abteilungen abbildet, welche Produkte anbieten
+- Zuständigkeiten der Abteilungen/Unternehmensbereiche werden benannt
+		
+		- Ansprechpartner
+		
+- Aufbau vom "Großem zum Kleinen" -> immer detailliertere Untergliederung
+- Aufgaben der Unternehmensbereiche werden ersichtlich
+- Verantwortlichkeiten sind aufgeteilt
+- Hierarchie: Überordnung und Unterordnung wird erkennbar
 
 Aufbauorganisation
 
-	- Strukturelle Einteilung von Arbeiten in Organisationseinheiten
-	- Aufgabenanalyse -> Zerlegung der Gesamtaufgabe in Teilaufgaben
-	- Aufgabensynthese -> Zusammenfassung von gleichartigen Teilaufgaben zu Aufgabenbereichen
-		○ Stellen = kleinste organisatorische Einheit eines Unternehmens
-	- Stellenbeschreibung definiert Aufgabenbereich mit Zuständigkeiten und Kompetenzbereichen
-		○ Werden in Abteilungen zusammengefasst
-	- Instanz (Abteilungsleiter) hat erweiterte Weisungs- und Entscheidungsbefugnisse
+- Strukturelle Einteilung von Arbeiten in Organisationseinheiten
+- Aufgabenanalyse -> Zerlegung der Gesamtaufgabe in Teilaufgaben
+- Aufgabensynthese -> Zusammenfassung von gleichartigen Teilaufgaben zu Aufgabenbereichen
+
+		- Stellen = kleinste organisatorische Einheit eines Unternehmens
+		
+- Stellenbeschreibung definiert Aufgabenbereich mit Zuständigkeiten und Kompetenzbereichen
+
+		- Werden in Abteilungen zusammengefasst
+		
+- Instanz (Abteilungsleiter) hat erweiterte Weisungs- und Entscheidungsbefugnisse
 
 Aufgaben
 
-	1. Notwendigkeit von Organisation im Unternehmen
+1. Notwendigkeit von Organisation im Unternehmen
 	- Vermeidung von Konflikten bei Aufgaben eines einzelnen Mitarbeiters
 	- Aufgaben und Stellen werden klar definiert
 		○ Abläufe werden standardisiert und verbessert
@@ -31,15 +37,15 @@ Aufgaben
 	- Identifikation von Schwachstellen wird erleichtert
 	- Optimierung von Unternehmensprozessen
 		○ Kostenersparnis und effizienter Einsatz von Ressourcen
-	2. Definition von Organisation und hierarchischen Strukturen
+2. Definition von Organisation und hierarchischen Strukturen
 	- Strukturen, bei der verschiedene Stellen einander unter- oder übergeordnet werden, 
       wodurch sich jeweilige Verantwortungen und Befugnisse für Abteilungen zugewiesene, vorgesetzte Instanzen ergeben
 	- Unterschiedliche Anordnungssysteme von Instanzen führen zu verschiedenen Strukturformen
 	- Rechtliche Sicherheit wird durch Verlagerung von Verantwortungen gegeben (sowie Rechte und Pflichten)
-	3. Beispiel Organisationsform Kraxlmeier AG
+3. Beispiel Organisationsform Kraxlmeier AG
 	- Kombination aus Stab-Liniensystem und Spartensystem
 		○ Spezifische Gliederung einer eigentlichen Abteilung in weitere Sparten (Autoklassen)
-	4. Vorteile der Abbildung eines Unternehmens in Form eines Organigramms
+4. Vorteile der Abbildung eines Unternehmens in Form eines Organigramms
 	- Ansprechpartner können erkannt werden
 	- Man erkennt, welche Produkte angeboten werden
 
