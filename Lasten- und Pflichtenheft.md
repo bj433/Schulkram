@@ -4,22 +4,23 @@ Gesamtheit der Forderung an die Lieferungen und Leistungen eines Auftragnehmers
 
 Ausgangssituation
 
-	- Warum überhaupt ein Projekt?
+- Warum überhaupt ein Projekt?
   
 Zielsetzung
 
-	- Gemäß der SMART-Kriterien
+- Gemäß der SMART-Kriterien
+
 Produkteinsatz
 
-	- Was soll das Produkt unter welchen Rahmenbedingungen leisten?
+- Was soll das Produkt unter welchen Rahmenbedingungen leisten?
   
 Funktionale Anforderungen
 
-	- Welche konkreten Funktionen muss das Produkt leisten?
+- Welche konkreten Funktionen muss das Produkt leisten?
   
 Nichtfunktionale Anforderungen
 
-	- Welche Anforderungen müssen darüber hinaus erfüllt werden?
+- Welche Anforderungen müssen darüber hinaus erfüllt werden?
 	(Effizienz, Zuverlässigkeit, Erweiterbarkeit)
   
 Lieferumfang
@@ -36,69 +37,69 @@ Leitfragenkatalog
 
 Ausgangssituation
 
-	- Wie kam es zur Projektidee?
-	- Welches Problem ist aufgetreten?
-	- Wie wurde damit in der Vergangenheit umgegangen?
-	- Wieso besteht Handlungsbedarf?
-	- In welche längerfristige Strategie soll das Projekt eingebunden werden?
+- Wie kam es zur Projektidee?
+- Welches Problem ist aufgetreten?
+- Wie wurde damit in der Vergangenheit umgegangen?
+- Wieso besteht Handlungsbedarf?
+- In welche längerfristige Strategie soll das Projekt eingebunden werden?
 
 Zielsetzung
 
-	- Was genau soll am Ende des Projekts entstanden sein?
-	- Woran wird der Erfolg im Einzelnen gemessen?
-	- Welche Messverfahren kommen zum Einsatz?
-	- Was muss passieren, damit die Lösung realisiert werden kann?
-	- Welche Termine gelten?
+- Was genau soll am Ende des Projekts entstanden sein?
+- Woran wird der Erfolg im Einzelnen gemessen?
+- Welche Messverfahren kommen zum Einsatz?
+- Was muss passieren, damit die Lösung realisiert werden kann?
+- Welche Termine gelten?
 
 Produkteinsatz
 
-	- Unter welchen Rahmenbedingungen soll das Produkt zum Einsatz kommen?
+- Unter welchen Rahmenbedingungen soll das Produkt zum Einsatz kommen?
 	(Temperatur, klimatische Bedingungen, Druck, Umfeld)
-	- Von wem soll das Produkt genutzt werden?
+- Von wem soll das Produkt genutzt werden?
 
 Funktionale Anforderungen
 
-	- Welche Funktionen sollen vorhanden sein?
-	- Soll das Produkt bestimmte Standzeiten erfüllen?
-	- Welche Ansprüche werden an Wartungsintervalle gestellt?
-	- Welche Zuverlässigkeit muss gegeben sein?
-	- Welche Toleranzen werden akzeptiert?
-	- Welche Anforderungen werden an die Bedienbarkeit gestellt?
-	- Was soll das Produkt können oder leisten?
+- Welche Funktionen sollen vorhanden sein?
+- Soll das Produkt bestimmte Standzeiten erfüllen?
+- Welche Ansprüche werden an Wartungsintervalle gestellt?
+- Welche Zuverlässigkeit muss gegeben sein?
+- Welche Toleranzen werden akzeptiert?
+- Welche Anforderungen werden an die Bedienbarkeit gestellt?
+- Was soll das Produkt können oder leisten?
 
 Nichtfunktionale Anforderungen
 
-	- Soll das Produkt erweiterbar sein?
-	- Sollen Änderungen möglich sein? Wenn ja, wie genau?
+- Soll das Produkt erweiterbar sein?
+- Sollen Änderungen möglich sein? Wenn ja, wie genau?
 
 Lieferumfang
 
-	- Was genau soll in welcher Form geliefert werden?
-	- Was gehört nicht mehr zum Lieferumfang?
-	- Was genau ist an den Meilensteinen zu liefern?
+- Was genau soll in welcher Form geliefert werden?
+- Was gehört nicht mehr zum Lieferumfang?
+- Was genau ist an den Meilensteinen zu liefern?
 
 Projektphasen und Meilensteine
 
-	- Welche Phasen sind im Projektverlauf einzuhalten?
-	- Welche Meilensteine sind einzuhalten?
-	- Was genau ist an den Meilensteinen zu liefern?
+- Welche Phasen sind im Projektverlauf einzuhalten?
+- Welche Meilensteine sind einzuhalten?
+- Was genau ist an den Meilensteinen zu liefern?
 
 Offene Punkte
 
-	- Was konnte noch nicht geklärt werden?
-	- Wer kümmert sich bis wann um die Klärung?
-	- Wie werden Entscheidungen im Projekt herbeigeführt?
-	- Wie kommen Veränderungen in das Lastenheft?
-	- Wer darf sie einbringen?
-	- Wer muss zustimmen?
-	- Wer hat ggf. Vetorecht?
+- Was konnte noch nicht geklärt werden?
+- Wer kümmert sich bis wann um die Klärung?
+- Wie werden Entscheidungen im Projekt herbeigeführt?
+- Wie kommen Veränderungen in das Lastenheft?
+- Wer darf sie einbringen?
+- Wer muss zustimmen?
+- Wer hat ggf. Vetorecht?
 
 Abnahmekriterien und Qualitätsanforderungen
 
-	- Anhand welcher Kriterien wird die Projektleitung an den Meilensteinen entlastet?
-	- Welchen Gremien gegenüber soll die Projektleitung berichten?
-	- Welche Qualitätsanforderungen werden an das Projekt gestellt?
-	- Welches QM-System und welche Unterlagen daraus gelten für das Projekt?
+- Anhand welcher Kriterien wird die Projektleitung an den Meilensteinen entlastet?
+- Welchen Gremien gegenüber soll die Projektleitung berichten?
+- Welche Qualitätsanforderungen werden an das Projekt gestellt?
+- Welches QM-System und welche Unterlagen daraus gelten für das Projekt?
 
 
 
@@ -110,26 +111,26 @@ Auftragnehmer erarbeiten Realisierungsanforderungen
 
 Zielbestimmung
 
-	- Muss-Kriterien
-	- Wunschkriterien
-	- Abgrenzungskriterien
+- Muss-Kriterien
+- Wunschkriterien
+- Abgrenzungskriterien
 
 Produkteinsatz
 
-	- Anwendungsbereiche
-	- Zielgruppen
-	- Betriebsbedingungen
+- Anwendungsbereiche
+- Zielgruppen
+- Betriebsbedingungen
 
 Produktumgebung
 
-	- Software
-	- Hardware
-	- Orgware
-	- Produkt-Schnittstellen
+- Software
+- Hardware
+- Orgware
+- Produkt-Schnittstellen
 
 Produktfunktionen und Produktdaten
 
-	- Produktspezifisch
+- Produktspezifisch
 
 Produkt-Leistungen
 
@@ -155,20 +156,20 @@ Erfüllt das Projektergebnis nicht die Anforderungen des Pflichtenhefts, wird in
 
 Systemtechnische Lösung:
 
-	- Kurzbeschreibung der Lösung
-	- Beschreibung und Gliederung der Lösung
-	- Beschreibung der Lösung für den ungestörten Betrieb
-	- Beschreibung der Lösung für den gestörten Betrieb
+- Kurzbeschreibung der Lösung
+- Beschreibung und Gliederung der Lösung
+- Beschreibung der Lösung für den ungestörten Betrieb
+- Beschreibung der Lösung für den gestörten Betrieb
   
 Systemtechnik (Ausprägung)
 
-	- Gerätetechnik/technische Daten
-	- Software
-	- Datenschutz
-	- Technische Angaben zum Gesamtsystem
+- Gerätetechnik/technische Daten
+- Software
+- Datenschutz
+- Technische Angaben zum Gesamtsystem
   
 Anhang
 
-	- Gesetze, Normen, Richtlinien
-	- Begriffe, Definition, Abkürzungen
+- Gesetze, Normen, Richtlinien
+- Begriffe, Definition, Abkürzungen
 
