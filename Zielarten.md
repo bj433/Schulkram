@@ -23,5 +23,6 @@ Operationalisierung: Inhalt, Zeitbezug, Zielausmaß
 - Produktverbesserung/-entwicklung
 - Neue Märkte erschließen
 - Werbung
+
 -> Mehr Verkauf
 
