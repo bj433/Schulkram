@@ -1,13 +1,13 @@
 Ausstattung eines Arbeitsplatzes nach Kundenwunsch dimensionieren
 
-	- Unterschied interne/externe Kunden
-	- Anforderungen an Soft- und Hardware/Infrastruktur und Netze
-	- Berücksichtigung und Einhaltung von Normen und Vorschriften (Zertifikate, Kennzeichnung, Piktogramme)
-	- Vergleich technischer Merkmale relevanter Produkte (Demoblätter/Produktbeschreibung)
-	- Netzwerkanalyse
-		○ Informationstechnische/energietechnische Kenngrößen
-		○ Ergonomie und Nachhaltigkeit
-	- Arbeitsplatz anbieten, Bedarf beschaffen und den Arbeitsplatz installieren und an den Kunden übergeben
+- Unterschied interne/externe Kunden
+- Anforderungen an Soft- und Hardware/Infrastruktur und Netze
+- Berücksichtigung und Einhaltung von Normen und Vorschriften (Zertifikate, Kennzeichnung, Piktogramme)
+- Vergleich technischer Merkmale relevanter Produkte (Demoblätter/Produktbeschreibung)
+- Netzwerkanalyse
+	- Informationstechnische/energietechnische Kenngrößen
+	- Ergonomie und Nachhaltigkeit
+- Arbeitsplatz anbieten, Bedarf beschaffen und den Arbeitsplatz installieren und an den Kunden übergeben
 
 -> Energieeffizienz vergleichen und dokumentieren
 
