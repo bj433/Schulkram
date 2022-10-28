@@ -3,7 +3,7 @@ Was wird auf dem Organigramm dargestellt?
 - Organisationschart, das Abteilungen abbildet, welche Produkte anbieten
 - Zuständigkeiten der Abteilungen/Unternehmensbereiche werden benannt
 		
-		- Ansprechpartner
+	- Ansprechpartner
 		
 - Aufbau vom "Großem zum Kleinen" -> immer detailliertere Untergliederung
 - Aufgaben der Unternehmensbereiche werden ersichtlich
@@ -16,11 +16,11 @@ Aufbauorganisation
 - Aufgabenanalyse -> Zerlegung der Gesamtaufgabe in Teilaufgaben
 - Aufgabensynthese -> Zusammenfassung von gleichartigen Teilaufgaben zu Aufgabenbereichen
 
-		- Stellen = kleinste organisatorische Einheit eines Unternehmens
+	- Stellen = kleinste organisatorische Einheit eines Unternehmens
 		
 - Stellenbeschreibung definiert Aufgabenbereich mit Zuständigkeiten und Kompetenzbereichen
 
-		- Werden in Abteilungen zusammengefasst
+	- Werden in Abteilungen zusammengefasst
 		
 - Instanz (Abteilungsleiter) hat erweiterte Weisungs- und Entscheidungsbefugnisse
 
@@ -60,17 +60,17 @@ Die Linie ist gleichzeitig der Dienstweg für alle Anordnungen, Anrufungen, Besc
 Der Linienorganisation liegt ein streng hierarchisches Denken zugrunde. 
 Die Leitungskräfte haben eine sehr große Macht.
 
-	- Vorteile: 
-		○ Klare Kompetenzfestlegung
-		○ Eindeutige Verantwortung
-		○ Einfache Strukturen
-		○ Gute Kontrollmöglichkeiten
-		○ Einfacher und übersichtlicher Unternehmensaufbau
-	- Nachteile:
-		○ Lange Dienstwege
-		○ Oft Überlastung der Vorgesetzten
-		○ Gefahr der Bürokratisierung
-		○ Gefahr der Informationsfilterung durch die Zwischeninstanzen
+- Vorteile: 
+	- Klare Kompetenzfestlegung
+	- Eindeutige Verantwortung
+	- Einfache Strukturen
+	- Gute Kontrollmöglichkeiten
+	- Einfacher und übersichtlicher Unternehmensaufbau
+- Nachteile:
+	- Lange Dienstwege
+	- Oft Überlastung der Vorgesetzten
+	- Gefahr der Bürokratisierung
+	- Gefahr der Informationsfilterung durch die Zwischeninstanzen
 
 Stab-Liniensystem
 
@@ -81,12 +81,12 @@ Instanzen werden durch Stabzellen oder Stababteilungen unterstützt.
 Stäbe haben keine Weisungsbefugnis, sondern sie bereiten die Entscheidungen nur vor.
 Trennung von Entscheidungskompetenz und Fachkompetenz/Beratung.
 
-	- Vorteile:
-		○ Siehe Ein-Liniensystem
-		○ Entlastung der Instanzen
-		○ Verbesserung der Qualität der Entscheidungen
-	- Nachteile:
-		○ Frustration der Stäbe durch fehlende Weisungskompetenz
+- Vorteile:
+	- Siehe Ein-Liniensystem
+	- Entlastung der Instanzen
+	- Verbesserung der Qualität der Entscheidungen
+- Nachteile:
+	- Frustration der Stäbe durch fehlende Weisungskompetenz
 
 Mehrliniensystem
 
@@ -98,15 +98,15 @@ Das führt dazu, dass ein ausführender Mitarbeiter von mehreren Vorgesetzten An
 Instanzen auf der gleichen Ebene können unmittelbar kommunizieren. 
 Spezialisierung der Instanzen und Einhaltung von kurzen Wegen (Delegationsweg und Informationsweg).
 
-	- Vorteile:
-		○ Durch die Spezialisierung der Instanzen verfügen diese über eine hohe Fachkompetenz
-		○ Fachkompetenz und Entscheidungskompetenz stimmen überein, kurze Dienstwege
-	- Nachteile:
-		○ Gefahr von Weisungskonflikten
-		○ Unklare Verantwortlichkeiten
-		○ Koordinationsprobleme zwischen den Instanzen
-		○ Unübersichtlichkeit der Organisation
-		○ Verunsicherung der untergeordneten Stellen
+- Vorteile:
+	- Durch die Spezialisierung der Instanzen verfügen diese über eine hohe Fachkompetenz
+	- Fachkompetenz und Entscheidungskompetenz stimmen überein, kurze Dienstwege
+- Nachteile:
+	- Gefahr von Weisungskonflikten
+	- Unklare Verantwortlichkeiten
+	- Koordinationsprobleme zwischen den Instanzen
+	- Unübersichtlichkeit der Organisation
+	- Verunsicherung der untergeordneten Stellen
 
 Matrixsystem
 
@@ -119,12 +119,12 @@ An den Kreuzungspunkten zwischen die Dimensionen müssen die Instanzen gemeinsam
 Die Teamarbeit der Dimensionsleiter steht im Vordergrund.
 Es gibt Regelungen wie bei Meinungsverschiedenheiten an den Kreuzungspunkten entschieden werden soll.  
 
-	- Vorteile: 
-		○ Teamarbeit der Instanzen
-		○ Kombinierter Einsatz von Spezialisten möglich
-		○ Gleichberechtigte Zusammenarbeit der Instanzen (keine hierarchische Zusammenarbeit)
-	- Nachteile:
-		○ Hoher Kommunikationsaufwand und daher oft Zeitverluste, bis eine Entscheidung getroffen werden kann
-		○ Zu viele Kompromisse
-		○ Konfliktpotential
+- Vorteile: 
+	- Teamarbeit der Instanzen
+	- Kombinierter Einsatz von Spezialisten möglich
+	- Gleichberechtigte Zusammenarbeit der Instanzen (keine hierarchische Zusammenarbeit)
+- Nachteile:
+	- Hoher Kommunikationsaufwand und daher oft Zeitverluste, bis eine Entscheidung getroffen werden kann
+	- Zu viele Kompromisse
+	- Konfliktpotential
 
