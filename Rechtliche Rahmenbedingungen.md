@@ -94,4 +94,4 @@ Rügefristen
 
 Mängelrüge (Reklamation)
 	- Benachrichtigung mit genauer Information des Mangels
-![image](https://user-images.githubusercontent.com/104757507/198627263-aa85da23-2221-4914-8dc5-80067603a0a5.png)
+
