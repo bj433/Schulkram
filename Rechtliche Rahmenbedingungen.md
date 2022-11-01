@@ -85,13 +85,13 @@ Rechte und Pflichten beim Kaufvertrag
 			§ Leistung unmöglich, aber Schadensersatz
 
 Rügefristen
-	- Einseitiger Handelskauf (B2C)
-		○ Offener Mangel: innerhalb von 2 Jahren nach Lieferung
-		○ Versteckter Mangel: innerhalb von 2 Jahren nach Lieferung
-	- Zweiseitiger Handelskauf (B2B)
-		○ Offener Mangel: unverzüglich
-		○ Versteckter Mangel: unverzüglich nach Entdeckung, innerhalb von 2 Jahren
+- Einseitiger Handelskauf (B2C)
+  - Offener Mangel: innerhalb von 2 Jahren nach Lieferung
+  - Versteckter Mangel: innerhalb von 2 Jahren nach Lieferung
+- Zweiseitiger Handelskauf (B2B)
+  - Offener Mangel: unverzüglich
+  - Versteckter Mangel: unverzüglich nach Entdeckung, innerhalb von 2 Jahren
 
 Mängelrüge (Reklamation)
-	- Benachrichtigung mit genauer Information des Mangels
+- Benachrichtigung mit genauer Information des Mangels
 
