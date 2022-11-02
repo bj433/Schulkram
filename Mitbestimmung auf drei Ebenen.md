@@ -11,3 +11,7 @@ Unterschied Montanmitbestimmungsgesetz/Mitbestimmungsgesetz
   - Kapitalgesellschaften (2.000 Beschäftigte)
   - Verhältnis Arbeitnehmer - Anteilseigner = 50/50
 
+- DG
+  - Arbeitnehmer haben 1/3 der Sitze im Aufsichtsrat
+
+-> Es ist eine Tendenz erkennbar, dass der Anteil der Arbeitnehmer in den Aufsichtsräten immer weiter sinkt
