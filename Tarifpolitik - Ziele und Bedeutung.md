@@ -1,0 +1,1 @@
+Tarifverträge sind kollektive Vereinbarungen zwischen den Tarifvertragsparteien
