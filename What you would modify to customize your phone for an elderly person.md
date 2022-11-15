@@ -1,0 +1,11 @@
+- Both focus mode and child lock mode are given
+- Accessibility option given with aid for hearing, vision, shivers, etc.
+  - Bigger text
+  - Text to Speech
+  - Less sensitive controls
+  - Higher contrast
+- Swipe, pin, password, fingerprint
+- Phone calls, games
+- Make text bigger, preinstall apps to use and disable everything that contains payments, set fingerprint or swipe
+- Most efficient and easiest to use, without a big risk of accidents
+- Whatsapp, and how to treat the internet
