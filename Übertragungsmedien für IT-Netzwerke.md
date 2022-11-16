@@ -76,3 +76,21 @@ Modendispersion
 - Unterschiedliche Modi des Lichts durchlaufen den LWL unterschiedlich schnell
 - Lichtsignale (Impulse) werden verformt
 - In Multimode LWL unvermeidbar da eingespeiste Lichtenergie auf alle stabilen Modi quantitisiert wird
+
+![image](https://user-images.githubusercontent.com/104757507/202184887-3ed9c72a-acf6-4167-b205-6b649186c97b.png)
+
+![image](https://user-images.githubusercontent.com/104757507/202184959-5f77b476-cfe9-4e0b-a960-c0c27b00e2e2.png)
+
+![image](https://user-images.githubusercontent.com/104757507/202185031-2156ad92-7db0-4283-95d8-4be75f07b664.png)
+
+Eigenschaften von Steckerverbindungen
+
+Die einfachste Form der optischen Kopplung ist die simple, lösbare Steckverbindung
+ - Steckbuchsen
+ - Drehverschluss
+ - Quetschverbindung (Maximierung der Kontaktfläche)
+
+Grundlegende Probleme aller Steckverbindungen:
+ - Hohe Verluste an der Kontaktoberfläche
+ - Hohe Verluste durch Versatz
+ - Mehrfachbrechung durch eingebrachtes Drittmedium (idR. Luft)
